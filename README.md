@@ -1,6 +1,6 @@
 # git-claim-someones-work
 
-> "I love git-claim-someones-work!!" -[Linus Torvalds says]*
+
 
 ## Install
 
